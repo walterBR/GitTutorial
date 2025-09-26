@@ -1,4 +1,4 @@
-#Tutorial Prático - Git
+﻿#Tutorial Prático - Git
 
 - O propósito deste arquivo tutorial é orientar na criação e controle do fluxo de trabalho para um projeto qualquer
 considerando as etapas necessárias, como criação do repositório, nomenclatura de arquivos e branchs, etc.
