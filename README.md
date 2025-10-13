@@ -6,3 +6,4 @@ considerando as etapas necessárias, como criação do repositório, nomenclatur
 -O tutorial será dividido em capítulos e sub-capítulos de maneira a se parecer com os arquivos que eventualmente podem ser criados em um projeto.
 
 -Um projeto pode ser na forma de código para um software ou mesmo um documento como este tutorial. 
+dddd
